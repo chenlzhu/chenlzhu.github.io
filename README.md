@@ -1,6 +1,4 @@
-# chenlzhu.github.io
-
-<h1 align="center">Hi! I'm Chenlin👏 Welcome to my page! </h1>
+<h1>Hi! I'm Chenlin👏 Welcome to my page! </h1>
 
 ### Things I code with
 ![](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=orange)
